@@ -1,0 +1,33 @@
+#balOldaliFul {
+    position: absolute;
+    left: auto;
+    height: 97%;
+    width: 10%;
+    background-color: blueviolet;
+}
+
+#levesBlokk {
+    top: auto;
+    float: right;
+    width: 90%;
+    height: 4cm;
+    background-color: green;
+    overflow: scroll;
+}
+
+#foetelBlokk {
+    float: right;
+    width: 90%;
+    height: 5cm;
+    background-color: red;
+    overflow: scroll;
+}
+
+#desszertBlokk {
+    float: right;
+    padding-bottom: 43mm;
+    width: 90%;
+    height: 100%;
+    background-color: yellow;
+    overflow: scroll;
+}
